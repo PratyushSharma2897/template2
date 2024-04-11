@@ -1,0 +1,148 @@
+* {
+    font-family: "Inter", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+#pinkbox{
+    border:1px solid #ffd4ec;
+    background-color:#ffd4ec;
+    padding:20px;
+}
+.inlineb {
+    display: inline-block;
+}
+
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#text2 {
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+#hometab {
+    margin-left: 500px;
+    color: grey;
+}
+
+.space {
+    margin-left: 10px;
+}
+
+#btn2 {
+    background-color: gold;
+    border-radius: 5px;
+    padding: 10px;
+}
+.text1{
+    text-align:center;
+}
+#heading1{
+    margin-top:100px;
+    font-size:xxx-large;
+}
+#yellowbox1{
+border:1px solid #ffbc24;
+background-color:#ffbc24;
+width:400px;
+padding:20px;
+box-sizing: border-box;
+display:inline-block;
+margin:10px;
+margin-left:40px;
+}
+#yellowbox2{
+border:1px solid #ffbc24;
+background-color:#ffbc24;
+width:400px;
+padding:20px;
+box-sizing: border-box;
+display:inline-block;
+margin:10px;
+}
+#blackbox1{
+    border:1px solid #000000;
+    background-color:#000000;
+    color:white;
+    width:400px;
+    padding:20px;
+    box-sizing: border-box;
+    display:inline-block;
+    margin:10px;
+}
+#pinkbox1{
+   
+    position:relative;
+    top:-46px;
+    left:40px;
+}
+#pinkbox2{
+    
+    position: relative;
+    top:-28px;
+    left:60px;
+}
+#pinkbox3{
+    
+    position:relative;
+    top:-10px;
+    left:80px;
+}
+.pinkboxes{
+    display:inline-block;
+    background-color:pink;
+    border:1px solid pink;
+    width:400px;
+    height:100px;
+    padding:20px;
+    box-sizing: border-box;
+    padding-left:40px;
+}
+#yellowbox{
+    border:1px solid #ffbc24;
+    background-color:#ffbc24;
+    box-sizing: border-box;
+}
+input{
+    padding:10px;
+    background-color:#ffbc24;
+}
+input:hover{
+    background-color:white;
+}
+#btn5{
+    padding:10px;
+    background-color:black;
+    color:white;
+}
+#footer{
+border:1px solid black;
+background-color:black;
+color:white;
+text-align:center;
+
+box-sizing: border-box10
+}
+#ltext1{
+    padding:20px;
+    box-sizing: border-box;
+}
+#ltext2{
+    padding:20px;
+    box-sizing: border-box;
+}
+#ltext3{
+padding:20px;
+box-sizing: border-box;
+}
+#ltext4{
+    padding:20px;
+    box-sizing: border-box;
+}
+#ltext5{
+    padding:20px;
+    box-sizing: border-box;
+}

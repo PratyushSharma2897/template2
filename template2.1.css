@@ -1,0 +1,304 @@
+* {
+    font-family: "Inter", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.inlineb {
+    display: inline-block;
+}
+
+
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+#text2 {
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+#hometab {
+    margin-left: 500px;
+    color: grey;
+}
+
+.space {
+    margin-left: 10px;
+}
+
+#btn2 {
+    background-color: gold;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+#text3 {
+    padding-left: 200px;
+    padding-top: 100px;
+}
+
+.btn3 {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+
+#leftimage1 {
+    position: relative;
+    top: 150px;
+    left: 100px;
+}
+
+#main2 {
+    background-color: #ffbc24;
+    border: 1px solid #ffbc24;
+    width: 100%;
+    margin-top: 150px;
+    padding: 20px;
+    box-sizing: border-box;
+
+}
+
+#lefttext1 {
+    position: relative;
+    top: 50px;
+    left: 200px;
+    width: 650px;
+}
+
+#righttext1 {
+    height: 200px;
+    width: 300px;
+    position: relative;
+    left: 800px;
+    top: -90px;
+}
+
+#text4 {
+    font-size: xx-large;
+}
+
+#text5 {
+    height: 300px;
+    width: 400px;
+    position: relative;
+    top: 30px;
+}
+
+#main3 {
+    padding-left: 150px;
+    padding-top: 150px;
+}
+
+.border {
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+#images1 {
+    position: relative;
+    top: -90px;
+    left: 140px;
+    width: 1100px;
+}
+
+.spacing1 {
+    margin-left: 10px;
+}
+
+.box1 {
+    height: 200px;
+    width: 250px;
+    display: inline-block;
+}
+
+.textstyle1 {
+    font-size: large;
+}
+
+#texts1 {
+    position: relative;
+    left: 140px;
+    top: -40px;
+    width: 1100px;
+}
+
+#righttext2 {
+    height: 400px;
+    width: 400px;
+    position: relative;
+    top: -300px;
+    left: 100px;
+}
+
+#leftimage2 {
+    position: relative;
+    left: 40px;
+}
+
+#main4 {
+    border: 1px solid #ffd4ec;
+    background-color: #ffd4ec;
+    height: max-content;
+    padding: 50px;
+}
+
+#text6 {
+    width: 500px;
+    
+}
+
+/* #images2 {
+
+    
+    width: 600px;
+} */
+
+#images2>img{
+    /* background-color: red; */
+    margin: 0 90px;
+}
+#text7{
+    font-size:xx-large;
+    padding:50px;
+    padding-left:80px;
+}
+#img1{
+background-image: url("template2image15.jfif");
+height:450px;
+width:350px;
+
+}
+#img2{
+    background-image: url("template2image16.jfif");
+    height:450px;
+    width:330px;
+}
+#img3{
+    background-image: url("template2image17.jfif");
+    height:450px;
+    width:350px;
+    position:relative;
+    top:-20px;
+}
+.insidetexts1{
+    width:200px;
+    margin-left:80px;
+    margin-top:80px;
+}
+#extraspaceleft{
+padding-left:30px;    
+}
+#threeimages1{
+    padding-left:100px;
+}
+#main5{
+    border:1px solid #f8f4f4;
+    background-color:#f8f4f4;
+    padding:50px;
+    padding-left:180px;
+}
+#lefttext2{
+    width:400px;
+    display:inline-block;
+}
+#blackbox{
+position:relative;
+left:100px;
+top:-100px;
+display:inline-block;
+border:1px solid black;
+background-color:black;
+height:200px;
+width:400px;
+color:white;
+box-sizing: border-box;
+padding:20px;
+}
+#btn4{
+    background-color:whitesmoke;
+    color:black;
+    padding:10px;
+    border-radius:5px;
+}
+#pinkbox{
+    background-color:magenta;
+    border:1px solid black;
+    width:400px;
+    height:100px;
+    position:relative;
+    padding-left:40px;
+    margin-left:505px;
+    padding:10px;
+    box-sizing: border-box;
+    top:-100px;
+}
+#extraspaceleft2{
+    margin-left:20px;
+}
+#text8{
+    font-size:xx-large;
+    padding:50px;
+    padding-left:300px;
+}
+#finalimage{
+    padding-left:200px;
+}
+#yellowbox{
+    border:1px solid #ffbc24;
+    background-color:#ffbc24;
+    box-sizing: border-box;
+}
+input{
+    padding:10px;
+    background-color:#ffbc24;
+}
+input:hover{
+    background-color:white;
+}
+#btn5{
+    padding:10px;
+    background-color:black;
+    color:white;
+}
+#footer{
+border:1px solid black;
+background-color:black;
+color:white;
+text-align:center;
+
+box-sizing: border-box10
+}
+#ltext1{
+    padding:20px;
+    box-sizing: border-box;
+}
+#ltext2{
+    padding:20px;
+    box-sizing: border-box;
+}
+#ltext3{
+padding:20px;
+box-sizing: border-box;
+}
+#ltext4{
+    padding:20px;
+    box-sizing: border-box;
+}
+#ltext5{
+    padding:20px;
+    box-sizing: border-box;
+}
