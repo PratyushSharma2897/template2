@@ -177,18 +177,18 @@ a {
     padding-left:80px;
 }
 #img1{
-background-image: url("template2image15.jfif");
+background-image: url("images/template2image15.jfif");
 height:450px;
 width:350px;
 
 }
 #img2{
-    background-image: url("template2image16.jfif");
+    background-image: url("images/template2image16.jfif");
     height:450px;
     width:330px;
 }
 #img3{
-    background-image: url("template2image17.jfif");
+    background-image: url("images/template2image17.jfif");
     height:450px;
     width:350px;
     position:relative;
@@ -280,7 +280,7 @@ background-color:black;
 color:white;
 text-align:center;
 
-box-sizing: border-box10
+box-sizing: border-box;
 }
 #ltext1{
     padding:20px;
